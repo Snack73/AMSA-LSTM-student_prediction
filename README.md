@@ -116,6 +116,21 @@ The model is evaluated using comprehensive metrics:
 
 *AMSA-LSTM achieves 15.2% improvement over Standard LSTM*
 
+### Training History and Loss
+![Training History and Loss](results/snap_1.png)
+
+### Model Comparison 
+![Model Comparison](results/snap_2.png)
+
+### Related Plots
+![Related Plots](results/snap_3.png)
+
+### Scale Attentions
+![Fine Scale Attention](results/snap_4.png)
+![Medium Scale Attention](results/snap_5.png)
+![Coarse Scale Attention](results/snap_6.png)
+![Scale Attention](results/snap_7.png)
+
 ## Visualization Features
 The implementation includes comprehensive visualization capabilities:
 
